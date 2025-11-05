@@ -1,0 +1,5 @@
+{
+  "name": "Scanner e Recomendador de Menus com IA",
+  "description": "Envie o menu de um restaurante, insira suas preferências gastronômicas e receba sugestões de refeições personalizadas com a tecnologia Gemini. O aplicativo analisa o menu com base em seus gostos, alergias, dieta, humor e orçamento para ajudar você a encontrar o prato perfeito.",
+  "requestFramePermissions": []
+}
